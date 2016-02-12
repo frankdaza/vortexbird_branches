@@ -19,6 +19,7 @@ public class MiSuma {
 		
 		
 
+		// hola mundo nuevo!!!!!
 		System.out.println(1 + 2);
 		System.out.println("Mi primer commit");
 		// otr comentrario frank!!!
@@ -28,6 +29,17 @@ public class MiSuma {
 	
 	public Long multiplicacionMolecular(Long test, Long test2) {
 		//juan camilo 
+		
+		// Frank Edward Daza estuvo aquí!!!!!
+		//  123412341234
+	public Long multiplicacionMolecular222(Long test, Long test2) {
+		// NADIE ESTUVO AQUÍ"""""
+		// Frank Edward Daza estuvo aquí!!!!!
+		//  123412341234
+		return 0l;
+	}
+	
+	public Long multiplicacionMoCHANGO MAN22(Long test, Long test2) {
 		
 		// Frank Edward Daza estuvo aquí!!!!!
 		//  123412341234
